@@ -56,7 +56,7 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-  background-image: linear-gradient(to bottom, transparent, #fff7),
+  background-image: linear-gradient(to top, #fffb, transparent),
     url("background.jpeg");
   background-size: cover;
 
@@ -76,7 +76,7 @@ nav a:hover {
 
 .hero p {
   font-size: 1.1rem;
-  color: #666;
+  color: #302d2d;
   max-width: 600px;
   margin: 0 auto;
 }
